@@ -1011,8 +1011,8 @@ title:"Mau Donasi? Ketik Owner",
 body: "Click to Suscribe", 
 thumbnail: fs.readFileSync("Media/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://youtube.com/@AnggaXyzz',
-sourceUrl: "https://youtube.com/@AnggaXyzz"
+mediaUrl: 'https://youtube.com/',
+sourceUrl: "https://youtube.com/"
 }}
 }
 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: fkontak })
@@ -1023,10 +1023,10 @@ teks = `┏━ꕥ〔 *Donasi • Dana* 〕ꕥ━⬣
 ┃⫹⫺ Dana = [${global.dana}]
 ┃⫹⫺ Gopay = [${global.gopay}]
 ┃⫹⫺ Pulsa Xl = [${global.pulsa}]
-┃⫹⫺ Saweria = [https://saweria.co/AnggaXyzz]
+┃⫹⫺ Saweria = [https://saweria.co/]
 ┗━━━━ꕥ
 ┏━━ꕥ〔 *NOTE* 〕ꕥ━⬣
-┃ Ingin donasi? Wa.me/6281997496643
+┃ Ingin donasi? Wa.me/6285797375014
 ┃ _Donasi agar bot makin bagus/keren_
 ┃ _Dan menghilangkan bug lain nya_
 ┗━━━━ꕥ`
@@ -1045,8 +1045,8 @@ title:"Mau Donasi? Ketik Owner",
 body: "Click to donasi", 
 thumbnail: fs.readFileSync("Media/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://youtube.com/@AnggaXyzz',
-sourceUrl: "https://youtube.com/@AnggaXyzz"
+mediaUrl: 'https://instagram.com/lynxofcid',
+sourceUrl: "https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h"
 }}
 }
 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: ftroli })
@@ -1068,9 +1068,9 @@ teks = `┏━ꕥ〔 *SEWA BOT* 〕ꕥ━⬣
 ┗━━━━ꕥ
 ┏━ꕥ〔 *PAYMENT* 〕ꕥ━⬣
 ┃ METHODE VIA 💳
+┃ PULSA IM3
 ┃ DANA
 ┃ GOPAY
-┃ PULSA XL
 ┃ QRIS ALLPAY
 ┗━━━━ꕥ`
 let buttons = [
@@ -1088,8 +1088,8 @@ title:"Mau Sewa Bot? Ketik Owner",
 body: "Click to sewa", 
 thumbnail: fs.readFileSync("Media/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://youtube.com/@AnggaXyzz',
-sourceUrl: "https://youtube.com/@AnggaXyzz"
+mediaUrl: 'https://instagram.com/lynxofcid',
+sourceUrl: "https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h"
 }}
 }
 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: ftroli })
@@ -2518,7 +2518,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     caption: `Random Waifu`,
                     footer: botname,
                     buttons: buttons,
-                    headerType: 4
+                    headerType: 46
                 }
                 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
             }
@@ -2637,7 +2637,7 @@ case 'tiktoknowm':
 			case 'tt':
 			    if (!text) return m.reply('𝘓𝘪𝘯𝘬 𝘕𝘺𝘢 𝘔𝘢𝘯𝘢??')
 				let p = await fdl.downloader.tiktok(q)
-				let nih = ` 𝘕𝘪𝘩 𝘒𝘢𝘬 𝘔𝘢𝘥𝘦 𝘉𝘺 ${author} 𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 https://www.youtube.com/@AnggaXyzz`
+				let nih = ` 𝘕𝘪𝘩 𝘒𝘢𝘬 𝘔𝘢𝘥𝘦 𝘉𝘺 ${author} 𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 https://www.youtube.com/`
 				let buttons = [
                     {buttonId: `tiktokmp3 ${text}`, buttonText: {displayText: '♫ Audio'}, type: 1}
                 ]
@@ -5857,8 +5857,8 @@ title:"baca Rules Bot!",
 body: "Click to rules", 
 thumbnail: fs.readFileSync("Media/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://youtube.com/@AnggaXyzz',
-sourceUrl: "https://youtube.com/@AnggaXyzz"
+mediaUrl: 'https://youtube.com/',
+sourceUrl: "https://youtube.com/"
 }}
 }
 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: ftroli })
@@ -5874,8 +5874,8 @@ throw `Thanks to
 ┃⫹⫺ 𝚇𝚎𝚘𝚗
 ┃⫹⫺ 𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌
 ┃⫹⫺ 𝙾𝚜𝚌𝚊𝚛 𝚘𝚏𝚌
-┃⫹⫺ 𝙰𝚗𝚐𝚐𝚊
-┗═┅〔 *Made By AnggaXyzz* 〕┅═`
+┃⫹⫺ ɪᴋʏ ʙᴏᴛ
+┗═┅〔 *Made By ɪᴋʏ* 〕┅═`
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
@@ -5885,7 +5885,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let jarot = `┏─────────────────⬣
 ┆ 𝑯𝒂𝒊, ${ucapanWaktu} ${pushname}
 ┗┬──────────────┈ ⳹
-┏┤ 𝙸𝚗𝚏𝚘 𝙰𝚗𝚐𝚐𝚊𝙱𝚘𝚝𝚣
+┏┤ 𝙸𝚗𝚏𝚘 ɪᴋʏ ʙᴏᴛ
 ┆┗──────────────┈ ⳹
 ┆♠︎ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botname}
 ┆♠︎ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ${global.ownername}
@@ -5939,7 +5939,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             break
             case 'command': {
 	const sections = [{
-								"title": "𝙰𝚗𝚐𝚐𝚊𝙱𝚘𝚝𝚣-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎",
+								"title": "ɪᴋʏ𝙱𝚘𝚝𝚣-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎",
 								"rows": [
 									{
 										"title": "𝘔𝘦𝘯𝘶 𝘖𝘵𝘩𝘦𝘳",
@@ -6058,7 +6058,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								"rows": [
 									{
 										"title": "Thanks To ❤️",
-										"description": "𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘊𝘩𝘢𝘯𝘦𝘭 AnggaXyzz",
+										"description": "𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣",
 										"rowId": `${prefix}tqto`
 									}
 								]
@@ -6088,7 +6088,7 @@ let fot = `𝙽𝚘𝚝𝚎 𝙹𝚒𝚔𝚊 𝙼𝚎𝚗𝚎𝚖𝚞𝚔𝚊�
 `
 const listMessage = {
 footer: fot,
-text: 'Made By AnggaXyzz',
+text: 'Made By Iky',
 title: con,
 buttonText: `CLICK HERE ⎙`, 
 sections
@@ -6953,7 +6953,7 @@ const buttonMessage = {
 ┃➺ ${prefix}collwall
 ┃➺ ${prefix}wonderful
 ┃➺ ${prefix}cool
-┃➺ ${prefix}sketch
+┃➺ ${prefix}sketch Iin
 ┃➺ ${prefix}marvel
 ┃➺ ${prefix}foggy
 ┃➺ ${prefix}writing
