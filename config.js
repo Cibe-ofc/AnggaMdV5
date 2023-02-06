@@ -14,32 +14,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281997496643'] //ur owner number
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur owner name
-global.developer = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //nama lu
-global.ytname = "YT: 𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur yt chanel name
+global.vcardowner = ['6285797375014'] //ur owner number
+global.ownername = "ɪᴋʏʙᴏᴛ" //ur owner name
+global.developer = "ɪᴋʏʙᴏᴛ" //nama lu
+global.ytname = "https://instagram.com/lynxofcid" //ur yt chanel name
 global.socialm = "https://github.com/AnggaXyzZ" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/E3l5YxNNUx89ecCRpOoOtO"
-global.location = "Banten" //ur location
+global.sgc = "https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h"
+global.location = "Jabar" //ur location
 
 //bot bomdy 
-global.owner = ['6281997496643'] //ur number
-global.ownernomer = "6281997496643" //ur number
-global.ownertag = '6281997496643' //ur tag number
-global.premium = ['6281997496643'] //ur premium number
-global.botname = '𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇' //ur bot name
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇"
-global.linkz = "https://youtube.com/@AnggaXyzz" //your theme url which will be displayed on whatsapp
-global.dana = "6281997496643"
-global.gopay = "6281997496643"
-global.pulsa = "6281997496643"
-global.websitex = "https://youtube.com/@AnggaXyzz" //ur website to be displayed
-global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
+global.owner = ['6285797375014'] //ur number
+global.ownernomer = "6285797375014" //ur number
+global.ownertag = '6285797375014' //ur tag number
+global.premium = ['6285797375014'] //ur premium number
+global.botname = 'ɪᴋʏ ʙᴏᴛ' //ur bot name
+global.ownername = "ɪᴋʏʙᴏᴛ"
+global.linkz = "https://instagram.com/lynxofcid" //your theme url which will be displayed on whatsapp
+global.dana = "chatowner"
+global.gopay = "chatowner"
+global.pulsa = "chatowner"
+global.websitex = "https://instagram.com/lynxofcid" //ur website to be displayed
+global.websitex1 = "https://instagram.com/lynxofcid"
 global.botscript = 'https://github.com/AnggaXyzZ' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇" //ur sticker watermark author
-global.wm = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur watermark
+global.author = "ɪᴋʏʙᴏᴛ" //ur sticker watermark author
+global.wm = "ɪᴋʏʙᴏᴛ" //ur watermark
 
 // Other
 global.sessionName = 'Session'
